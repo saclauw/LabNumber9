@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/*Steven Clauw 2-1-17
+ * LabNumber9
+ * 
+ */
 public class CarApp {
 
 	public static void main(String[] args) {
